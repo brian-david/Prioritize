@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prioritize_2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">stuff...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">You cant save an empty task ya silly goose!</string>
+</resources>
